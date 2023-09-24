@@ -29,6 +29,7 @@ I may replace its use with an improved package in the future, as this one misses
 
 ## Emoji to App Icon
 [Repository](https://github.com/martinshaw/emoji-to-appicon)
+
 [Try it out](https://martinshaw.co/toys/emoji-to-appicon)
 
 I am not currently much of a graphic designer, so I made this small utility which leverages the design of emojis for my product icons. 
