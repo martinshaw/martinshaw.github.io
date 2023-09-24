@@ -1,0 +1,70 @@
+{
+	// Page Option. Border bottom. units: mm, cm, in, px
+	"markdown-pdf.border.bottom": "1cm",
+
+	// Page Option. Border left. units: mm, cm, in, px
+	"markdown-pdf.border.left": "1cm",
+
+	// Page Option. Border right. units: mm, cm, in, px
+	"markdown-pdf.border.right": "1cm",
+
+	// Page Option. Border Top. units: mm, cm, in, px
+	"markdown-pdf.border.top": "1.5cm",
+
+	// Enable line breaks
+	"markdown-pdf.breaks": false,
+
+	// Enable Auto convert on save
+	"markdown-pdf.convertOnSave": true,
+
+	// Excluded file name of convertOnSave option
+	"markdown-pdf.convertOnSaveExclude": [],
+
+	// Enable emoji. http://www.webpagefx.com/tools/emoji-cheat-sheet/
+	"markdown-pdf.emoji": true,
+
+	// Footer contents
+	"markdown-pdf.footer.contents": "<div style=\"text-align: center; margin-top: 0.5cm;\">{{page}}/{{pages}}</div>",
+
+	// Footer height. units: mm, cm, in, px
+	"markdown-pdf.footer.height": "0.8cm",
+
+	// Page Option. Page size: A3, A4, A5, Legal, Letter, Tabloid
+	"markdown-pdf.format": "A4",
+
+	// Header contents
+	"markdown-pdf.header.contents": "",
+
+	// Header height. units: mm, cm, in, px
+	"markdown-pdf.header.height": "",
+
+	// Enable Syntax highlighting
+	"markdown-pdf.highlight": true,
+
+	// Set the style file name. for example: github.css, monokai.css ... https://github.com/isagalaev/highlight.js/tree/master/src/styles
+	"markdown-pdf.highlightStyle": "",
+
+	// Page Option. portrait or landscape
+	"markdown-pdf.orientation": "portrait",
+
+	// Output Directory
+	"markdown-pdf.outputDirectory": "",
+
+	// Only used for types png & jpeg
+	"markdown-pdf.quality": 90,
+
+	// Statusbar message timeout [milliseconds]
+	"markdown-pdf.renderDelay": 10000,
+
+	// Statusbar message timeout [milliseconds]
+	"markdown-pdf.StatusbarMessageTimeout": 10000,
+
+	// A list of local paths to the stylesheets to use from the markdown-pdf. All '\' need to be written as '\\'.
+	"markdown-pdf.styles": [],
+
+	// table-of-contents markdown-it options
+	"markdown-pdf.table-of-contents": {},
+
+	// Output format: pdf, html, png, jpeg
+	"markdown-pdf.type": "html",
+}
